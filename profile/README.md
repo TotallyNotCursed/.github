@@ -1,6 +1,7 @@
 <p align="center">
   <img alt="Logo" src="./logo.png">
 </p>
+<p align="center"><small><em>Please read this gist — it explains the project story and an unfortunate situation that occurred: <a href="https://gist.github.com/HeySiMoon/b3ffa1a7a39b34cbc875451c1374b19f">full explanation</a>.</em></small></p>
 
 Welcome to Totally Not Cursed, a curated Minecraft modpack focused on atmospheric, survival-oriented gameplay with horror elements. It combines sanity mechanics, persistent stalking entities, tactical combat features, and modified world generation to create a challenging, immersive experience.
 
